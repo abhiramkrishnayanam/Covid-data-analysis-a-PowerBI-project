@@ -25,8 +25,6 @@ Conclusion and Recommendations: Summarize the findings and provide recommendatio
 
 Following inferences can be drawn from the reports;
 
-### Total Profit of $16.89M
-
 The sum of deaths is highest in North America.But death per million population is highest in Europe.
 
 The country with highest death per million population is San Marido. But the country with highest sum of death is USA as USA has highest population. 
